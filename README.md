@@ -13,6 +13,12 @@ En synstest i nettleseren på mobilen, laget for moro skyld i familien. Den er i
 
 Alt kjører lokalt på mobilen. Ingen bilder lagres eller sendes noe sted, og resultatene lagres bare i nettleseren.
 
+## Finn briller som passer
+- **Ansiktsskann:** kameraet bruker iris (≈11,7 mm) som målestokk og finner ansiktsform og ansiktsbredde i mm. Du kan også velge ansiktsformen selv.
+- **Katalog** (`catalog.json`): modeller fra Specsavers og Brilleland med pris, form, ramme, materiale og størrelse der den er oppgitt. Filtrer på butikk, type, form, ramme, materiale, solbriller og pris.
+- **Prøv på:** en tegnet innfatning legges på ansiktet i kameraet, i riktig størrelse i mm.
+- Bildene er tegnede silhuetter. Butikkenes produktbilder brukes ikke, men hver modell lenker til butikkens produktside.
+
 ## Begrensninger
 Langsynthet (plusstyrke) kan ikke måles med fjernpunktmetoden. Regn med avvik på ±0,5 D. Gå til optiker for briller og for å sjekke øyehelsen.
 
